@@ -3,8 +3,8 @@
 function speedDetector(speed) {
 //Declares variables that will be used in the function execution
      const limit = 70;
-    const demeritPoints = 1;
-    const suspension = 12;
+     const demeritPoints = 1;
+     const suspension = 12;
     
     //Initiates an if statement that evaluates the conditions relating to the value of speed inputted
     if (speed <= limit) {
